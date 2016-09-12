@@ -6,7 +6,7 @@ Rogue like test in html5/Go
 
 
 ### The in-game console
-![TheGame Console](/client/media/Animation2.jpg)
+![TheGame Console](/client/media/Animation2.gif)
 
 # Game is still pretty.. Not a game ..
 Just few tests for fun in free moments x)
