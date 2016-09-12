@@ -7,7 +7,7 @@ import (
 	"net/http"
 )
 
-//Room non mi rompere il cazzo con la sintassi grazie
+
 type Room struct {
 	Height int      `json:"height"`
 	Width  int      `json:"width"`
