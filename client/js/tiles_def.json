@@ -1,0 +1,28 @@
+{
+	"." : {
+		"name": "EMPTY",
+		"block": 0,
+		"block_phrase": ""
+	},
+	"/" :{
+		"name": "OPEN_DOOR",
+		"block": 0,
+		"block_phrase": ""
+	},
+	"#" :{
+		"name": "WALL",
+		"block": 1,
+		"block_phrase": "Ouch."
+	},
+	"|" :{
+		"name": "VWALL",
+		"block": 1,
+		"block_phrase": "Ouch."
+	},
+	"+" :{
+		"name": "CLOSED_DOOR",
+		"block": 1,
+		"block_phrase": "There's a closed door here. Should I knock ?"
+	}
+
+}

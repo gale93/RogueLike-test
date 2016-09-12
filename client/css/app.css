@@ -1,0 +1,10 @@
+canvas#main
+{
+	border:1px solid black;
+	/* background-color: #333333; */
+}
+
+#text_display>p
+{
+	opacity: 0.5;
+}
